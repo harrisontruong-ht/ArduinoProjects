@@ -6,4 +6,5 @@
 - Learned basic wiring and programming with a blinking light
 
 
-Video:
+Video:[
+https://youtube.com/shorts/C5G0yRWzXAU?feature=share](url)
